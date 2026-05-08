@@ -1,0 +1,4 @@
+name = "cloud-pc-nuxt"
+pages_build_output_dir = "dist"
+compatibility_date = "2024-03-20"
+account_id = "07d4a1549593e39505d8b95ed2ad9dcd"
